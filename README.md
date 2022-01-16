@@ -33,6 +33,6 @@ EFI folder for HP 15-CS3005NT
 ### BIOS Setup
 - Disable "Secure Boot"
 
-### Teşekkürler
+### Teşekkürler (Thanks)
 - yusfklncc (https://osxinfo.net/uye/yusfklncc.7802/)
 - topic (https://osxinfo.net/konu/macos-monterey-intel-ve-amd-kurulum-imaji.24330/)
