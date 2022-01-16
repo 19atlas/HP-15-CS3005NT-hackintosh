@@ -29,3 +29,8 @@ EFI folder for HP 15-CS3005NT
 - [ ] TouchPad with Advanced Gestures
 - [ ] Battery percentage
 - [ ] Bluetooth
+
+### BIOS Setup
+- Disable "Secure Boot"
+
+https://osxinfo.net/konu/macos-monterey-intel-ve-amd-kurulum-imaji.24330/
