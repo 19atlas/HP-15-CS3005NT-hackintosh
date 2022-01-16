@@ -2,6 +2,7 @@
 EFI folder for HP 15-CS3005NT
 ![t3lk6sp0yoa81](https://user-images.githubusercontent.com/67108558/149613864-1c5eea80-f921-42c2-a888-c5da9b40db7d.png)        
 
+## My Laptop
 | Specs         | Details                    
 | -----------   | ------------------------------- |
 | Laptop        | `HP Pavilion laptop 15-CS3005NT`|
@@ -11,3 +12,20 @@ EFI folder for HP 15-CS3005NT
 | Bios Name     | `\_SB.PCI0.GFX0`                |
 | RAM           | `8 GB DDR4 SDRAM`               |
 
+### Works
+- [x] Intel Integrated Graphics (IGPU)
+- [x] USB
+- [x] Webcam
+- [x] Brightness controls
+- [x] TouchPad
+- [x] Speakers
+- [x] Integrated Microphone (you can talk Siri)
+- [x] Apple Services (iCloud, Apple Music, Apple TV ...)
+
+### Doesn't work
+- [ ] SD Card Reader (haven't tested)
+- [ ] Airdrop (haven't tested)
+- [ ] Sleep
+- [ ] TouchPad with Advanced Gestures
+- [ ] Battery percentage
+- [ ] Bluetooth
