@@ -11,7 +11,8 @@ EFI folder for HP 15-CS3005NT
 | dGPU (Disable)| `Nvidia MX130`                  |
 | Bios Name     | `\_SB.PCI0.GFX0`                |
 | RAM           | `8 GB DDR4 SDRAM`               |
-| OpenCore ver. | `V0.7.5`               |
+| OpenCore ver. | `V0.7.5`                        |
+| HP BIOS ver.  | `F.15`                          |
 
 ### Works
 - [x] Intel Integrated Graphics (IGPU)
