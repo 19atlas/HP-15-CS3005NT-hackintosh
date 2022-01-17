@@ -34,6 +34,13 @@ EFI folder for HP 15-CS3005NT
 
 ### BIOS Setup
 - Disable "Secure Boot"
+- Disable VT-d (can be enabled if you set `DisableIoMapper` to YES)
+- Disable Intel SGX
+- Disable Intel Platform Trust
+
+### Config reminders for HP
+- Kernel > Quirks > LapicKernelPanic -> true
+- UEFI > Quirks > UnblockFsConnect -> true
 
 ### Teşekkürler (Thanks)
 - yusfklncc (https://osxinfo.net/uye/yusfklncc.7802/)
