@@ -21,7 +21,7 @@ EFI folder for HP 15-CS3005NT
 - [x] Brightness controls
 - [x] TouchPad
 - [x] Speakers
-- [x] Integrated Microphone (you can talk Siri)
+- [x] Integrated Microphone (you can talk to Siri)
 - [x] Apple Services (iCloud, Apple Music, Apple TV ...)
 
 ### Doesn't work
