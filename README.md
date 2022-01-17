@@ -42,6 +42,43 @@ EFI folder for HP 15-CS3005NT
 - Kernel > Quirks > LapicKernelPanic -> true
 - UEFI > Quirks > UnblockFsConnect -> true
 
+### IGPU
+```
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,GfxYTile</key>
+				<data>AQAAAA==</data>
+				<key>AAPL,ig-platform-id</key>
+				<data>AABSig==</data>
+				<key>device-id</key>
+				<data>UooAAA==</data>
+				<key>device_type</key>
+				<string>VGA compatible controller</string>
+				<key>enable-hdmi-dividers-fix</key>
+				<data>AQAAAA==</data>
+				<key>enable-hdmi20</key>
+				<data>AQAAAA==</data>
+				<key>enable-lspcon-support</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-pipe</key>
+				<data>EgAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AACQAA==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAwAQ==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
+				<key>model</key>
+				<string>Intel Iris Plus Graphics G7</string>
+			</dict>
+```
+
 ### Teşekkürler (Thanks)
 - yusfklncc (https://osxinfo.net/uye/yusfklncc.7802/)
 - topic (https://osxinfo.net/konu/macos-monterey-intel-ve-amd-kurulum-imaji.24330/)
