@@ -42,7 +42,7 @@ EFI folder for HP 15-CS3005NT
 - Kernel > Quirks > LapicKernelPanic -> true
 - UEFI > Quirks > UnblockFsConnect -> true
 
-### IGPU fixup
+### IGPU fixup for G1
 ```xml
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
