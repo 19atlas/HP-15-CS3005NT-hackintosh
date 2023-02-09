@@ -1,6 +1,6 @@
 # HP-15-CS3005NT-hackintosh
-EFI folder for HP 15-CS3005NT
-<-- ![t3lk6sp0yoa81](https://user-images.githubusercontent.com/67108558/149613864-1c5eea80-f921-42c2-a888-c5da9b40db7d.png)-->      
+EFI folder for HP 15-CS3005NT 
+![2023-02-09_09-58](https://user-images.githubusercontent.com/67108558/217780432-23ce435f-5c53-4f1d-ad1e-ff8d7f16dd4b.png)
 
 ## My Laptop
 | Specs         | Details                    
